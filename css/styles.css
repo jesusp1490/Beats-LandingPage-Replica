@@ -606,7 +606,18 @@ img {
   }
 
   .case__img {
-    
+    width: 220px;
+    top: -2rem;
+    left: -9rem;
+  }
+
+  .case__data {
+    padding: 0;
+  }
+
+  .products__container {
+    grid-template-columns: 142px;
+    justify-content: center;
   }
 }
 
